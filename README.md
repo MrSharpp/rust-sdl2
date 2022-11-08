@@ -1,1 +1,1 @@
-# Permutations Array of layers of an image With Rust & SDL2
+# Permutated Array of layers into image With Rust & SDL2
